@@ -1,5 +1,5 @@
 {
-  "name": "mh20_adventure-game",
+  "name": "mh20-adventure-game",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",

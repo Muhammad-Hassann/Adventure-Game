@@ -18,7 +18,7 @@ Chalk: for styled console output (https://www.npmjs.com/package/chalk)
 # Running the Game
 Make sure you have Node.js and npm installed.
 Open a terminal.
-Run "npx mh20_adventure-game" start the game.
+Run "npx mh20-adventure-game" start the game.
 
 # Development
 Feel free to modify the code in the src directory to customize the game experience. Here are some areas for improvement:
